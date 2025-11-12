@@ -1,0 +1,284 @@
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.AssemblyReference.cache
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.GeneratedMSBuildEditorConfig.editorconfig
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfoInputs.cache
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfo.cs
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.CoreCompileInputs.cache
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.exe
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.deps.json
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.runtimeconfig.json
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.pdb
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.Up2Date
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.dll
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\refint\komfort.dll
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.pdb
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.genruntimeconfig.cache
+E:\komfort\komfort\komfort\obj\Debug\net8.0-windows\ref\komfort.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.exe
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.deps.json
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.runtimeconfig.json
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.pdb
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.ClientModel.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.AssemblyReference.cache
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.GeneratedMSBuildEditorConfig.editorconfig
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfoInputs.cache
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfo.cs
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.CoreCompileInputs.cache
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.Up2Date
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\refint\komfort.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.pdb
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.genruntimeconfig.cache
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\ref\komfort.dll
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.MainForm.resources
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.GenerateResource.cache
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.HistoryForm.resources
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\admin.png
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\guest.png
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\manager.png
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\user.png
+H:\УП\Лабораторная работа №4\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.ProductEditForm.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.exe
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\admin.png
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\guest.png
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\manager.png
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\user.png
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.deps.json
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.runtimeconfig.json
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.pdb
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.AssemblyReference.cache
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.HistoryForm.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.MainForm.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.ProductEditForm.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.GenerateResource.cache
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfoInputs.cache
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfo.cs
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.CoreCompileInputs.cache
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.Up2Date
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\refint\komfort.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.pdb
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.genruntimeconfig.cache
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\ref\komfort.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.WorkshopsForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.exe
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\admin.png
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\guest.png
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\manager.png
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Resources\user.png
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.deps.json
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.runtimeconfig.json
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\komfort.pdb
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.ClientModel.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.AssemblyReference.cache
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.HistoryForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.MainForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.ProductCard.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.ProductEditForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.WorkshopsForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.GenerateResource.cache
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.GeneratedMSBuildEditorConfig.editorconfig
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfoInputs.cache
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.AssemblyInfo.cs
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.CoreCompileInputs.cache
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.csproj.Up2Date
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\refint\komfort.dll
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.pdb
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.genruntimeconfig.cache
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\ref\komfort.dll
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.ProductCard.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.LoginForm.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.Properties.Resources.resources
+C:\Users\222909071094-26\Downloads\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.RawMaterialForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.LoginForm.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.Properties.Resources.resources
+H:\УП\Лабораторная работа №6\komfort\komfort\komfort\obj\Debug\net8.0-windows\komfort.RawMaterialForm.resources
